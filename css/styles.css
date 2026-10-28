@@ -1,0 +1,48 @@
+
+body{
+    background: linear-gradient(85deg, white, white, aqua);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+select{
+    display: block;
+    margin: 20px auto;
+    padding: 10px 15px;
+    background-color: #2f7f84;
+    color: white;
+    font-size: 15px;
+    
+}
+
+
+div ul{
+    color: cadetblue;
+    width: 300px;
+}
+
+
+.gustos{
+    border: 3px solid black;
+}
+
+
+footer{
+    height: 150px;
+    line-height: 150px;
+    background: rgb(138, 162, 159);
+    text-align: center;
+}
+
+button{
+    display: block;
+    margin: 20px auto;
+    padding: 10px 15px;
+    background-color: #2f7f84;
+    color: white;
+    font-size: 15px;
+}
+
+button:hover{
+    background-color: #256468;
+}
